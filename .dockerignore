@@ -1,0 +1,8 @@
+data/
+*.dblwr
+*.ibd
+*.frm
+*.log
+__pycache__/
+.env
+.git
